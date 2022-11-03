@@ -1,0 +1,6 @@
+Name: demo-api
+Addr: ":8080"
+Mode: release
+
+JwtAuth:
+  Secret: abc123456
