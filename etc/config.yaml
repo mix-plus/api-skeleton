@@ -4,3 +4,7 @@ Mode: release
 
 JwtAuth:
   Secret: abc123456
+
+HelloRpcConf:
+  Target: "127.0.0.1:8081"
+  Timeout: 1
